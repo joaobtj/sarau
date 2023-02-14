@@ -1,0 +1,9 @@
+---
+title: "Todas as Músicas"
+---
+
+```{r, results='asis', echo=FALSE}
+m <- list.files("music", pattern = ".pdf")
+
+for (f in m) cat(paste0("[", f, "](music/", f, ")\n\n"))
+```

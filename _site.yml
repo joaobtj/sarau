@@ -1,0 +1,10 @@
+name: "Sarau da Saúde - UFSC"
+navbar:
+  left:
+    - text: "Sarau da Saúde"
+      href: index.html
+    - text: "Todas as músicas"
+      href: todas.html
+    - text: "Sobre"
+      href: about.html
+
