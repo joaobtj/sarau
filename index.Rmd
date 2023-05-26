@@ -2,60 +2,72 @@
 title: "Sarau da Saúde"
 ---
 
-Apresentação do dia 14/04/2023 - Mercado público
+Apresentação do dia 26/05/2023 - APUFSC
  
 *Setlist*
 
-1.	[Gostava tanto de você](music/gostava-tanto-de-voce.pdf)
 
-2.	[Como eu quero](music/Kid Abelha - Como Eu Quero.pdf)
+1.  [Como eu quero](music/Kid Abelha - Como Eu Quero.pdf)
+2.  [Anna Júlia](music/Los Hermanos - Anna Júlia.pdf)
+3.	[Zombie](music/zombie.pdf)
+4.	[Final feliz](music/Jorge Vercillo - Final Feliz.pdf)
+5.	[Have you ever seen the rain](music/Creedence Clearwater Revival - Have You Ever Seen The Rain.pdf)
+6.	[Flores](music/flores.pdf)
+7.	[A dois passos do paraíso](music/a-dois-passos-do-paraiso.pdf)
+8.	[Do seu lado](music/Jota Quest - Do Seu Lado.pdf)
+9.	[Velha infância](music/velha-infancia.pdf)
+10.	[Cowboy fora da lei](music/Raul Seixas - Cowboy Fora da Lei.pdf)
+11.	[Lágrimas e chuva](music/lagrimas-e-chuva.pdf)
+12.	[My girl](music/The Temptations - My Girl.pdf)
+13.	[Dancing queen](music/ABBA - Dancing Queen.pdf)
 
-3.	[Anna Júlia](music/Los Hermanos - Anna Júlia.pdf)
+ESPECIAL RITA LEE
 
-4.	[Agora só falta você](music/agora-so-falta-voce.pdf)
+14.	[Desculpe o auê](music/Rita Lee - Desculpe o auê.pdf)
+15.	[Agora só falta você](music/agora-so-falta-voce.pdf)
+16.	[Ovelha negra](music/ovelha-negra.pdf)
 
-5.	[A dois passos do paraíso](music/a-dois-passos-do-paraiso.pdf)
+--------------------------------------
 
-6.	[Velha infância](music/velha-infancia.pdf)
+17.	[Nothing compares 2 U](music/Chris Cornell - Nothing Compares 2 U.pdf)
+18.	[Apenas mais uma de amor](music/Lulu Santos - Apenas Mais Uma de Amor.pdf)
+19.	[Gostava tanto de você](music/gostava-tanto-de-voce.pdf)
+20.	[Vamos fugir](music/vamos-fugir.pdf)
+21.	[Essa tal liberdade](music/Só Pra Contrariar - Essa Tal Liberdade.pdf)
+22.	[Eu quero sempre mais](music/eu-quero-sempre-mais.pdf)
 
-7.	[Flores](music/flores.pdf)
+ESPECIAL FESTA JUNINA 
 
-8.	[Ovelha negra](music/ovelha-negra.pdf)
+23.	[Asa branca](music/Luiz Gonzaga - Asa Branca.pdf)
+24.	[Anunciação](music/Alceu Valença - Anunciação.pdf)
+25.	[Dona maria](music/Thiago Brava - Dona Maria (part. Jorge).pdf)
+26.	[Nova york](music/Chrystian & Ralf - Nova York.pdf)
+27.	[Borboletas](music/Victor e Leo - Borboletas.pdf)
+28.	[Rindo a toa](music/)
+29.	[Xote da alegria](music/)
+30.	[Esperando na janela](music/Gilberto Gil - Esperando Na Janela)
+31.	[Pedro, Antônio e Joao/Pula fogueira](music/PedroAntonioJoao.pdf)
+32.	[Eu só quero um xodó](music/)
+33.	[Isso aqui tá bom demais](music/Dominguinhos - Isso Aqui Tá Bom Demais.pdf)
 
-9.	[Cowboy fora da lei](music/Raul Seixas - Cowboy Fora da Lei.pdf)
+--------------------------------------
 
-10.	[Lágrimas e chuva](music/lagrimas-e-chuva.pdf)
+34.	[Casinha branca](music/Roberta Campos - Casinha Branca.pdf)
+35.	[Linger](music/)
+36.	[Malandragem](music/malandragem.pdf)
+37.	[Linda juventude](music/linda-juventude.pdf)
+38.	[Magamalabares](music/magamalabares.pdf)
+39.	[To be with you](music/to-be-with-you.pdf)
+40.	[Catedral](music/Zélia Duncan - Catedral.pdf)
+41.	[O vira](music/Secos & Molhados - O Vira.pdf)
+42.	[Fogo e paixão](music/Wando - Fogo e Paixão.pdf)
+43.	[Não quero dinheiro](music/nao-quero-dinheiro.pdf)
+44.	[Fico assim sem você](music/fico-assim-sem-voce.pdf)
+45.	[Que se chama amor](music/)
+46.	[Last kiss](music/last-kiss.pdf)
+47.	[Whisky à go go](music/whisky-a-go-go.pdf)
 
-11.	[Do seu lado](music/Jota Quest - Do Seu Lado.pdf)
 
-12.	[Fico assim sem você](music/fico-assim-sem-voce.pdf)
 
-13.	[Que país é este?](music/Legião Urbana - Que País É Este.pdf)
-
-14.	[Ainda bem](music/Marisa Monte - Ainda Bem.pdf)
-
-15.	[Apenas mais uma de amor](music/Lulu Santos - Apenas Mais Uma de Amor.pdf)
-
-16.	[Desculpe o auê](music/Rita Lee - Desculpe o auê.pdf)
-
-17.	[Vamos fugir](music/vamos-fugir.pdf)
-
-18.	[Eu quero sempre mais](music/eu-quero-sempre-mais.pdf)
-
-19.	[Anunciação](music/Alceu Valença - Anunciação.pdf)
-
-20.	[Malandragem](music/malandragem.pdf)
-
-21.	[Whisky à go go](music/whisky-a-go-go.pdf)
-
-22.	[Magamalabares](music/magamalabares.pdf)
-
-23.	[Catedral](music/Zélia Duncan - Catedral.pdf)
-
-24.	[O vira](music/Secos & Molhados - O Vira.pdf)
-
-25.	[Fogo e paixão](music/Wando - Fogo e Paixão.pdf)
-
-26.	[Não quero dinheiro](music/nao-quero-dinheiro.pdf)
 
 
