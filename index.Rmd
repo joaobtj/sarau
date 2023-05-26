@@ -41,11 +41,11 @@ ESPECIAL FESTA JUNINA
 23.	[Asa branca](music/Luiz Gonzaga - Asa Branca.pdf)
 24.	[Anunciação](music/Alceu Valença - Anunciação.pdf)
 25.	[Dona maria](music/Thiago Brava - Dona Maria (part. Jorge).pdf)
-26.	[Nova york](music/Chrystian & Ralf - Nova York.pdf)
+26.	[Nova york](music/nova-york.pdf)
 27.	[Borboletas](music/Victor e Leo - Borboletas.pdf)
-28.	[Rindo a toa](music/)
-29.	[Xote da alegria](music/)
-30.	[Esperando na janela](music/Gilberto Gil - Esperando Na Janela)
+28.	[Rindo a toa](music/Falamansa - Rindo À Toa.pdf)
+29.	[Xote da alegria](music/Falamansa - Xote da Alegria.pdf)
+30.	[Esperando na janela](music/Gilberto Gil - Esperando Na Janela.pdf)
 31.	[Pedro, Antônio e Joao/Pula fogueira](music/PedroAntonioJoao.pdf)
 32.	[Eu só quero um xodó](music/)
 33.	[Isso aqui tá bom demais](music/Dominguinhos - Isso Aqui Tá Bom Demais.pdf)
@@ -53,7 +53,7 @@ ESPECIAL FESTA JUNINA
 --------------------------------------
 
 34.	[Casinha branca](music/Roberta Campos - Casinha Branca.pdf)
-35.	[Linger](music/)
+35.	[Linger](music/linger.pdf)
 36.	[Malandragem](music/malandragem.pdf)
 37.	[Linda juventude](music/linda-juventude.pdf)
 38.	[Magamalabares](music/magamalabares.pdf)
@@ -63,7 +63,7 @@ ESPECIAL FESTA JUNINA
 42.	[Fogo e paixão](music/Wando - Fogo e Paixão.pdf)
 43.	[Não quero dinheiro](music/nao-quero-dinheiro.pdf)
 44.	[Fico assim sem você](music/fico-assim-sem-voce.pdf)
-45.	[Que se chama amor](music/)
+45.	[Que se chama amor](music/Só Pra Contrariar - Que Se Chama Amor.pdf)
 46.	[Last kiss](music/last-kiss.pdf)
 47.	[Whisky à go go](music/whisky-a-go-go.pdf)
 
